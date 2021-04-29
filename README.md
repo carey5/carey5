@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @carey5
+- 👀 I’m interested in Mechanical Engineering, Mechatronics, CNC machining, stocks
+- 🌱 I’m currently learning Python
